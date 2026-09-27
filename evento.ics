@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Invitaciones//Estefania XV//ES
+BEGIN:VEVENT
+UID:estefania-xv-20261010@invitacion.local
+DTSTAMP:20260927T000000Z
+DTSTART:20261010T220000Z
+SUMMARY:Mis 15 años - Estefania Dapne
+LOCATION:Av. Reducto\, zona 4 Esquinas
+DESCRIPTION:Estefania Dapne Peñaloza Moya. Ubicación: https://maps.app.
+ goo.gl/Kx7rRGR65LScg7Er9
+END:VEVENT
+END:VCALENDAR
